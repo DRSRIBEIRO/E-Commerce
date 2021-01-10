@@ -8,5 +8,7 @@ namespace ECommerce.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<ECommerce.Models.Departaments> Departaments { get; set; }
     }
 }

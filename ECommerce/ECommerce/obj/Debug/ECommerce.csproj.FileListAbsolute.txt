@@ -107,7 +107,6 @@ C:\GitHub\E-Commerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Twitter.xml
 C:\GitHub\E-Commerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\GitHub\E-Commerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.OAuth.xml
 C:\GitHub\E-Commerce\ECommerce\ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
 C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
 C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CopyComplete
 C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.dll
