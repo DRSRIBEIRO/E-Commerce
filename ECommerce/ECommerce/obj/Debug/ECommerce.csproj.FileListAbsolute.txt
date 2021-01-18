@@ -111,3 +111,4 @@ C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileI
 C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CopyComplete
 C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.dll
 C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\GitHub\E-Commerce\ECommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
