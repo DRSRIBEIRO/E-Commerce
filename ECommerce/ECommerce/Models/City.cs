@@ -18,6 +18,7 @@ namespace ECommerce.Models
 
         [Required(ErrorMessage = "O campo Departamento é requerido!")]
         [Display(Name = "Departamento")]
+        [Range(1, double.MaxValue, ErrorMessage = "Selecione um Departamento")]
         public int DepartamentsId { get; set; }
 
         //relacionamento entre tabelas
